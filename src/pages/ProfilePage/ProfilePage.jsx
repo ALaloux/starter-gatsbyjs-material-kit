@@ -67,8 +67,8 @@ class ProfilePage extends React.Component {
                       <img src={profile} alt="..." className={imageClasses} />
                     </div>
                     <div className={classes.name}>
-                      <h3 className={classes.title}>Christian Louboutin</h3>
-                      <h6>DESIGNER</h6>
+                      <h3 className={classes.title}>Arnaud Laloux</h3>
+                      <h6>Web Marketer and more!</h6>
                       <Button justIcon link className={classes.margin5}>
                         <FaTwitter/>
                       </Button>
